@@ -1,2 +1,3 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with MySQL, including ETL processes, data modeling, and analytics.
+# Data Warehouse and Analytics Project
+
+This portfolio project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
