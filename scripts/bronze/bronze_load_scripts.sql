@@ -1,4 +1,16 @@
--- SET sql_mode = '';
+/*
+===============================================================================
+Load Bronze Layer (Source -> Bronze)
+===============================================================================
+Script Purpose:
+    This script loads data into the 'bronze' schema from external CSV files. 
+    It performs the following actions:
+    - Truncates the bronze tables before loading data.
+    - Uses the `LOAD DATA INFILE` command to load data from csv Files to bronze tables.
+===============================================================================
+*/
+
+SET sql_mode = '';
 
 TRUNCATE TABLE bronze.crm_cust_info;
 LOAD DATA INFILE '/Users/hansonyang/mysql-imports/source_crm/cust_info.csv'
