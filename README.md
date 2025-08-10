@@ -21,4 +21,4 @@ This project involves:
 ## About Me
 
 Hi there! I'm **Hanson Yang**. I’m an MSBA student at UCLA Anderson, passionate about using data to solve business problems!
-Let's stay in touch! Feel free to connect with me
+Let's stay in touch! Feel free to connect with me.
