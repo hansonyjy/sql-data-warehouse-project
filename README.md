@@ -27,7 +27,7 @@ This project involves:
 
 ## Acknowledgements
 
-This project structure and methodology were adapted from [DataWithBaraa’s SQL Data Warehouse Project](https://github.com/DataWithBaraa/sql-data-warehouse-project) under the [MIT License](LICENSE).
+This project structure and methodology were adapted from [DataWithBaraa’s SQL Data Warehouse Project](https://github.com/DataWithBaraa/sql-data-warehouse-project) under the MIT License.
 
 ## About Me
 
